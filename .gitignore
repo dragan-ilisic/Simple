@@ -1,0 +1,6 @@
+#GIT IGNORE
+*.class
+
+*.jar
+*.war
+*.ear
